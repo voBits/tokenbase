@@ -1,7 +1,6 @@
 <!--
 This is a token listing request template. Please follow it if you are requesting a token listing.
-Token listing guide: https://www.reddit.com/r/ForkDelta/comments/7tntnz/how_to_get_an_erc20_token_listed_on_forkdelta/
-Got questions? Join Discord chat: https://discord.gg/mMnRq7m
+Token listing guide: https://github.com/voBits/tokenbase/blob/master/README.md
 -->
 
 Contract address:
