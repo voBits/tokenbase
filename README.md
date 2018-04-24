@@ -1,8 +1,8 @@
 # ![voBits logo](https://github.com/voBits/vobits.github.io/blob/master/images/favicon.png)  Tokenbase
 
-[![Build Status](https://travis-ci.org/forkdelta/tokenbase.svg?branch=master)](https://travis-ci.org/forkdelta/tokenbase) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](https://github.com/vobits/tokenbase/issues)
+[![Build Status](https://travis-ci.org/voBits/vobits.github.io.svg?branch=master)](https://travis-ci.org/voBits/vobits.github.io) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](https://github.com/vobits/tokenbase/issues)
 
-**voBits** voBits is an Ethereum Token Decentralized exchange community with the most ERC20 listings of any exchange, and including new tokens from airdrops/bounties/ICOs with liquidity support from its community. Tokenbase is our ERC20 token knowledgebase.
+**voBits**  is an Ethereum Token Decentralized exchange community with the most ERC20 listings of any exchange, and including new tokens from airdrops/bounties/ICOs with liquidity support from its community. Tokenbase is our ERC20 token knowledgebase.
 
 ## Format
 Token information is stored in YAML format, one token per file, in `tokens/0xTOKENADDRESS.yaml`.
