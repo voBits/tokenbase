@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/forkdelta/tokenbase.svg?branch=master)](https://travis-ci.org/forkdelta/tokenbase) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](https://github.com/forkdelta/tokenbase/issues)
 
-**ForkDelta** is a decentralized exchange with over 700 tradable ERC20-compliant tokens. Tokenbase is our ERC20 token knowledgebase.
+**voBits** voBits is an Ethereum Token Decentralized exchange community with the most ERC20 listings of any exchange, and including new tokens from airdrops/bounties/ICOs with liquidity support from its community. Tokenbase is our ERC20 token knowledgebase.
 
 ## Format
 Token information is stored in YAML format, one token per file, in `tokens/0xTOKENADDRESS.yaml`.
