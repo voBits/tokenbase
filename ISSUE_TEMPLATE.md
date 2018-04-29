@@ -1,6 +1,6 @@
 <!--
 This is a token listing request template. Please follow it if you are requesting a token listing.
-Token listing guide: https://github.com/voBits/tokenbase/blob/master/README.md
+ [![Token listing guide:](https://img.shields.io/badge/Guide-Token%20Listing-green.svg)](https://github.com/voBits/tokenbase/blob/master/README.md)
 -->
 
 Contract address:
