@@ -15,4 +15,18 @@ A link to a third-party review or discussion of the token, like an established I
 Description:
 
 
+------------------------->
+links:
+
+Email: 
+Telegram: 
+Twitter: 
+Reddit: 
+Whitepaper:
+
+name: 
+symbol: 
+Etherscan:
+Decimal:
+
 <!-- If you are not requesting to list a token, feel free to delete this template -->
