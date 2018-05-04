@@ -37,7 +37,7 @@ from urllib.parse import urlparse
 	    if "token" not in token_name.lower():
 	        token_name += " Token"
 	
-	    return "{token_name} ${symbol} by {issuer_attr} is now available on @voBits: https://voBits.github.io/#!/trade/{symbol}-ETH \n\n#{symbol} #ERC20 #gems #Ethereum #ICO #Crypto #cryptotrading".format(
+	    return "{token_name} ${symbol} by {issuer_attr} is now available on @voBitsOfficial: https://voBits.github.io/#!/trade/{symbol}-ETH \n\n#{symbol} #ERC20 #gems #Ethereum #ICO #Crypto #cryptotrading".format(
 	        token_name=token_name, symbol=symbol, issuer_attr=issuer_attr,
 	    )
 	
