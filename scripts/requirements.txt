@@ -4,3 +4,4 @@ pyyaml
 requests
 rfc3986
 web3==3.16.4
+urllib3>=2.6.0 # not directly required, pinned by Snyk to avoid a vulnerability
